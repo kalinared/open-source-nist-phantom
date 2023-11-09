@@ -37,3 +37,12 @@ layer. [Plasti Dip](https://plastidip.com/our-products/plasti-dip/) can work wel
 1. The bolt holes and fill port may need to be expanded if the 3D print resulted in a narrower hole. If so, drill out
 the holes using the tools described above.
 1. Tap the bolt holes and fill port.
+
+---
+
+This repository is developed and maintained
+by the Magnetic Imaging group, principally:
+
+- Kathryn Keenan, @katykeenan-nist
+
+Please reach out with questions and comments.
